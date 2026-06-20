@@ -1,31 +1,16 @@
 {
   "appName": "أذان بلس",
   "versions": [
-    {
-      "versionName": "1.1.1",
-      "versionCode": 3,
-      "releaseDate": "2026-06-25",
-      "apkUrl": "https://example.com/downloads/azanplus-1.1.1.apk",
-      "fileSize": "108 MB",
-      "minAndroid": "Android 7.0+",
-      "sha256": "",
-      "isLatest": true,
-      "title": "تحسينات عامة وتجربة أكثر ثباتا",
-      "notes": [
-        "تحسين صفحة الأدوات وتجربة البوصلة.",
-        "تحسين استقرار تنبيهات الأذان.",
-        "إصلاحات صغيرة في واجهة المستخدم."
-      ]
-    },
+  
     {
       "versionName": "1.1.0",
       "versionCode": 2,
       "releaseDate": "2026-06-20",
-      "apkUrl": "https://example.com/downloads/azanplus-1.1.0.apk",
+      "apkUrl": "https://www.upload-apk.com/en/EdphxaqPocq1ZbT",
       "fileSize": "107 MB",
       "minAndroid": "Android 7.0+",
       "sha256": "",
-      "isLatest": false,
+      "isLatest": true,
       "title": "إضافة الأدوات الإسلامية",
       "notes": [
         "إضافة بوصلة القبلة.",
